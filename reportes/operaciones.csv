@@ -1,4 +1,4 @@
-fecha_registro,planta,caudal_entrada_m3_d,DBO_entrada_mg_L,DBO_salida_mg_L,energia_aeracion_kWh,lodos_generados_kg_d,eficienia_dbo
+fecha_registro,planta,caudal_entrada_m3_d,DBO_entrada_mg_L,DBO_salida_mg_L,energia_aeracion_kWh,lodos_generados_kg_d,eficiencia_DBO
 2025-08-17,Planta Sur,6562,271,40.0,1261.1,440.3,85.23985239852398
 2025-09-07,Planta Sur,5336,322,26.8,1629.3,561.2,91.67701863354037
 2025-07-26,Planta Norte,5755,318,45.2,1469.2,441.6,85.78616352201259
